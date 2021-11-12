@@ -1,4 +1,4 @@
-# Optimization of multi-vehicle Transportaion
+# Optimization of multi-vehicle Transportation
 
 This project purpose is to provide a fully detailed plan of delievring goods.
 In the first step the program will solve the Multi Knapsack problem
