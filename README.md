@@ -2,13 +2,13 @@
 
 ## Screenshots
 **Input data file**  
-![mkpInput](https://user-images.githubusercontent.com/58071878/141596470-f3d5ef1b-dc2b-48ed-b341-089dc26899ad.png)
+<img width="563" alt="mkpInput" src="https://user-images.githubusercontent.com/58071878/141596648-f72a4b62-233c-4ae1-8679-827453e0b07b.png">
 
 **Output list**  
-![mkpOutput](https://user-images.githubusercontent.com/58071878/141596524-dfaacea1-a6d6-4f1b-b508-7e2cdccb2be1.png)
+<img width="365" alt="mkpOutput" src="https://user-images.githubusercontent.com/58071878/141596651-fdc63c96-71c6-49ae-b0ae-9f6cf6cad891.png">
 
 **Visualization of the solution**  
-![outputVisualization](https://user-images.githubusercontent.com/58071878/141596539-2e67c453-6706-4eed-a4cb-bbc0c1f6d306.png)
+<img width="400" alt="visualization" src="https://user-images.githubusercontent.com/58071878/141596665-e867dd2f-7bde-40f1-9af4-3c9d7c827891.png">
 
 
 This project purpose is to provide a fully detailed plan of delievring goods.
